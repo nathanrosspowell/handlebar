@@ -1,4 +1,4 @@
-[handlebar](nathanrosspowell.github.io/handlebar)
+[handlebar](http://nathanrosspowell.github.io/handlebar)
 =================================================
 
 A `handlebars.js` example website
